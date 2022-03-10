@@ -1,11 +1,17 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import "../styles/home.css"
 
 const Home = () => {
   return (
-    <div >
+    <div className="home-container">
       <Navbar />
+      <div >
+
+<h1>aqui va ael homeee</h1>
+
+      </div>
 
       <Footer />
     </div>
