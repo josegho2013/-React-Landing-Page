@@ -2,8 +2,8 @@
 .footer_container {
     display: flex;
     margin: auto;
-    padding: 4%;
-    height: 70px;
+    padding: 5%;
+    height: 13px;
     justify-content: space-between;
     align-items: center;
     background-color: black;
