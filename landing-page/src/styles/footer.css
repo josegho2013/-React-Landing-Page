@@ -1,13 +1,16 @@
 
 .footer_container {
-    display: flex;
-    margin: auto;
-    padding: 5%;
-    height: 13px;
-    justify-content: space-between;
-    align-items: center;
-    background-color: black;
-    font-family: 'Urbanist';
+  display: flex;
+  margin: auto;
+  position: absolute;
+  bottom: 0;
+  padding: 5%;
+  height: 13px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  font-family: 'Urbanist';
+  width: -webkit-fill-available;
   }
   /* .footer_container h1 {
     display: flex;

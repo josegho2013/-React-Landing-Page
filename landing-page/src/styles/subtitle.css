@@ -1,0 +1,9 @@
+.subtitle_container {
+    display: flex;
+    margin: auto;
+    padding: 4%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    font-family: "Urbanist";
+  }
