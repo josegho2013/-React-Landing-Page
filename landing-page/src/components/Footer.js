@@ -3,7 +3,10 @@ import "../styles/footer.css"
 
 const Footer = () => {
   return (
-    <div className="footer_container">Footer</div>
+    <div className="footer_container">
+      
+      <h1> Footer aqui</h1>
+     </div>
   )
 }
 
