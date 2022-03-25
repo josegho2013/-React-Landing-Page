@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import SubTitle from "./SubTitle";
 import Title from "./Title";
-import Clients from "./Title";
+// import Clients from "./Clients";
 
 import "../styles/home.css";
 
@@ -14,7 +14,7 @@ const Home = () => {
       <Title />
 
       <SubTitle />
-      <Clients />
+      {/* <Clients /> */}
 
       <Footer />
     </div>
