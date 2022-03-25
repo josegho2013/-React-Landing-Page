@@ -3,7 +3,7 @@ import "../styles/subtitle.css"
 
 const SubTitle = () => {
   return (
-    <div className='subtitle_container' >
+    <div  >
       
       <h1>subtitle aquii</h1>
       
