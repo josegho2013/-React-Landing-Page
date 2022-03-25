@@ -5,7 +5,7 @@ const SubTitle = () => {
   return (
     <div  >
       
-      <h1>subtitle aquii</h1>
+   
       
       </div>
   )

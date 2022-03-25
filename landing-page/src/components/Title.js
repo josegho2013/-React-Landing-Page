@@ -6,7 +6,7 @@ const Title = () => {
     <div >
       
       
-      <h1> Title aqui</h1></div>
+      </div>
   )
 }
 
