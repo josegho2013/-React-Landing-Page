@@ -14,9 +14,11 @@ const Navbar = () => {
       <h1> MANGO DEV</h1>
       <div className="links">
         <button>Home</button>
-        <button>About</button>
+        <button>About Me</button>
         <button>Skill</button>
         <button>Works</button>
+        <button>Contact</button>
+
       </div>
       <VscCode size="4rem" color="white" />;
     </div>
