@@ -8,3 +8,8 @@
     background-color: rgb(66, 211, 66);
     font-family: 'Urbanist';
   } */
+
+  .imagen {
+    width: 50%;
+    background-repeat: no-repeat;
+  }
