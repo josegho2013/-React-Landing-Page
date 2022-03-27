@@ -1,15 +1,4 @@
-/* .home_container {
-    display: flex;
-    margin: auto;
-    padding: 9%;
-    height: 70px;
-    justify-content: space-between;
-    align-items: center;
-    background-color: rgb(66, 211, 66);
-    font-family: 'Urbanist';
-  } */
-
-  .imagen {
-    width: 50%;
-    background-repeat: no-repeat;
-  }
+.imagen {
+  width: 50%;
+  background-repeat: no-repeat;
+}

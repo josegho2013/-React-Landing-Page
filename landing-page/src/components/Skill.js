@@ -2,7 +2,8 @@ import React from 'react'
 
 const Clients = () => {
   return (
-    <div></div>
+    <div>
+      <h1>aqui van mis skill</h1></div>
   )
 }
 
