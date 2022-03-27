@@ -1,7 +1,7 @@
 import React from 'react'
-import "../styles/subtitle.css"
+import "../styles/works.css"
 
-const SubTitle = () => {
+const Works = () => {
   return (
     <div  >
       
@@ -11,4 +11,4 @@ const SubTitle = () => {
   )
 }
 
-export default SubTitle
+export default Works

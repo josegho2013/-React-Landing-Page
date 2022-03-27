@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import SubTitle from "./Works";
+
 import Landing from "./Landing";
 // import Clients from "./Clients";
 
