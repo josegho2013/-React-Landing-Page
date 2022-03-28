@@ -1,10 +1,52 @@
 import React from 'react'
+
 import "../styles/works.css"
 
 const Works = () => {
   return (
-    <div  >
-      <h1>aqui van mis trabajos</h1>
+    <div className='works-container' >
+
+      <div>
+     <img  className="img-card" src='https://economipedia.com/wp-content/uploads/Inicio-de-un-proyecto.jpg' />
+     <h2>nombre de proyecto</h2>
+     <button>ver codigo</button>
+     <button>ver deploy</button>
+     </div>
+     
+     <div>
+     <img  className="img-card" src='https://economipedia.com/wp-content/uploads/Inicio-de-un-proyecto.jpg' />
+     <h2>nombre de proyecto</h2>
+     <button>ver codigo</button>
+     <button>ver deploy</button>
+     </div>
+     
+     <div>
+     <img  className="img-card" src='https://economipedia.com/wp-content/uploads/Inicio-de-un-proyecto.jpg' />
+     <h2>nombre de proyecto</h2>
+     <button>ver codigo</button>
+     <button>ver deploy</button>
+     </div>
+     
+     <div>
+     <img  className="img-card" src='https://economipedia.com/wp-content/uploads/Inicio-de-un-proyecto.jpg' />
+     <h2>nombre de proyecto</h2>
+     <button>ver codigo</button>
+     <button>ver deploy</button>
+     </div>
+     
+     <div>
+     <img  className="img-card" src='https://economipedia.com/wp-content/uploads/Inicio-de-un-proyecto.jpg' />
+     <h2>nombre de proyecto</h2>
+     <button>ver codigo</button>
+     <button>ver deploy</button>
+     </div>
+     
+     <div>
+     <img  className="img-card" src='https://economipedia.com/wp-content/uploads/Inicio-de-un-proyecto.jpg' />
+     <h2>nombre de proyecto</h2>
+     <button>ver codigo</button>
+     <button>ver deploy</button>
+     </div>
    
       
       </div>

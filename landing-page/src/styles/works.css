@@ -1,8 +1,22 @@
-.subtitle_container {
-   
-    padding: 10%;
-  
-  
-    background-color: #e41313;
- 
+
+  .works-container{
+    flex-direction: column;
+  width: 272px;
+  height: 350px;
+  margin-left: 85px;
+  margin-top: 50px;
+  padding: 5px;
+  border: 3px solid transparent;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  font-family: "Urbanist";
+  font-feature-settings: "smcp";
+  font-variant: small-caps;
+  cursor: pointer;
+  }
+  .img-card{
+    width: 250px;
+    height: 250px;
+    
   }
