@@ -1,15 +1,15 @@
 .home-container {
   width: 100%;
-  /* background-repeat: no-repeat; */
   display: flex;
 }
 
 .left-image{
-  width: 50%;
+  width: 51%;
 }
 .right-image{
-  width: 50%;
+  width: 49%;
 }
 .imagen{
-  width: 50%;
+  width: 100%;
+  background-repeat: no-repeat;
 }

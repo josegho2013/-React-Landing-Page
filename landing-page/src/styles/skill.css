@@ -1,0 +1,11 @@
+.container-skill {
+  width: 100%;
+  display: flex;
+}
+
+.letf-skill {
+  width: 50%;
+}
+.right-skill {
+  width: 50%;
+}

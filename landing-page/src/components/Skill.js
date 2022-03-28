@@ -1,10 +1,17 @@
-import React from 'react'
+import React from "react";
+import { Button } from "reactstrap";
 
-const Clients = () => {
+const Skill = () => {
   return (
-    <div>
-      <h1>aqui van mis skill</h1></div>
-  )
-}
+    <div className="container-skill">
+      <div className="left-skill">
+        <Button>FRONT END</Button>
+      </div>
+      <div className="right-skill">
+        <Button>BACKEND</Button>
+      </div>
+    </div>
+  );
+};
 
-export default Clients
+export default Skill;
