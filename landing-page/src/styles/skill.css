@@ -10,46 +10,67 @@
 .right-skill {
   width: 50%;
 }
-.img-logos {
+.img-logos01 {
   display: flex;
   position: relative;
-  width: 25%;
-  top: 0;
+  width: 89%;
+  top: 164px;
   height: 5rem;
   margin: auto;
 }
+
 .img01 {
   background-image: url("./img/js.png");
   width: 25%;
-  height: 37px;
+  height: 57px;
   background-size: contain;
   background-repeat: no-repeat;
 }
+.img01:hover {
+  width: 50%;
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
 .img02 {
   background-image: url("./img/html-5.png");
   width: 25%;
-  height: 37px;
+  height: 57px;
   background-size: contain;
   background-repeat: no-repeat;
 }
 .img03 {
   background-image: url("./img/css-3.png");
   width: 25%;
-  height: 37px;
+  height: 57px;
   background-size: contain;
   background-repeat: no-repeat;
 }
 .img04 {
   background-image: url("./img/bootstrap.png");
-  width: 25%;
-  height: 37px;
+  width: 26%;
+  height: 57px;
   background-size: contain;
   background-repeat: no-repeat;
 }
 .img05 {
   background-image: url("./img/atom.png");
   width: 25%;
-  height: 37px;
+  height: 57px;
   background-size: contain;
   background-repeat: no-repeat;
+}
+.img06{
+    background-image: url(https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png);
+    width: 25%;
+    height: 57px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img07{
+    background-image: url("https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png");
+    width: 25%;
+    height: 57px;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
