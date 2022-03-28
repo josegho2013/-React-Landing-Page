@@ -25,6 +25,9 @@ const Skill = () => {
           <div className="img10"></div>
           <div className="img11"></div>
           <div className="img12"></div>
+          <div className="img13"></div>
+          <div className="img14"></div>
+
         </div>
       </div>
     </div>
