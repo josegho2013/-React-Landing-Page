@@ -10,3 +10,46 @@
 .right-skill {
   width: 50%;
 }
+.img-logos {
+  display: flex;
+  position: relative;
+  width: 25%;
+  top: 0;
+  height: 5rem;
+  margin: auto;
+}
+.img01 {
+  background-image: url("./img/js.png");
+  width: 25%;
+  height: 37px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img02 {
+  background-image: url("./img/html-5.png");
+  width: 25%;
+  height: 37px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img03 {
+  background-image: url("./img/css-3.png");
+  width: 25%;
+  height: 37px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img04 {
+  background-image: url("./img/bootstrap.png");
+  width: 25%;
+  height: 37px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img05 {
+  background-image: url("./img/atom.png");
+  width: 25%;
+  height: 37px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
