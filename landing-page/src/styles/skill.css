@@ -1,9 +1,10 @@
 .container-skill {
   width: 100%;
   display: flex;
+  min-height: 75vh;
 }
 
-.letf-skill {
+.left-skill {
   width: 50%;
 }
 .right-skill {
