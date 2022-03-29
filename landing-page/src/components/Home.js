@@ -3,11 +3,17 @@ import { Button, Collapse, Alert } from "reactstrap";
 import "../styles/home.css";
 
 const Home = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const toggle = () => setIsOpen(!isOpen);
+  // const [isOpen, setIsOpen] = useState(false);
+  // const toggle = () => setIsOpen(!isOpen);
   return (
     <div className="home-container">
-      <div className="left-image">
+
+      <img  className="imagen"   src="https://cdn.pixabay.com/photo/2018/12/10/02/14/manhattan-3866140_960_720.jpg"/>
+
+      <div className=" titulo">
+        <h1> Welcome to my Portfolio</h1>
+      </div>
+      {/* <div className="left-image">
         <img
           className="imagen"
           src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"
@@ -34,7 +40,7 @@ const Home = () => {
             labore wes anderson cred nesciunt sapiente ea proident.
           </Alert>
         </Collapse>
-      </div>
+      </div> */}
     </div>
   );
 };

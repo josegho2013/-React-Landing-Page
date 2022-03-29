@@ -1,10 +1,13 @@
 import React from 'react'
+import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 import "../styles/works.css"
 
 const Works = () => {
   return (
     <div className='works-container' >
+       <Navbar />
 
       <div>
      <img  className="img-card" src='https://economipedia.com/wp-content/uploads/Inicio-de-un-proyecto.jpg' />
@@ -48,7 +51,7 @@ const Works = () => {
      <button>ver deploy</button>
      </div>
    
-      
+     <Footer />
       </div>
   )
 }

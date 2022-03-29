@@ -1,9 +1,14 @@
-.home-container {
+
+
+.imagen {
   width: 100%;
-  display: flex;
+  opacity: 0.6;
+}
+.titulo{
+  justify-content: center;
 }
 
-.left-image{
+/* .left-image{
   width: 51%;
 }
 .right-image{
@@ -12,4 +17,4 @@
 .imagen{
   width: 100%;
   background-repeat: no-repeat;
-}
+} */
