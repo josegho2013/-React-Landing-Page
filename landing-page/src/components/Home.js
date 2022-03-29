@@ -6,13 +6,12 @@ const Home = () => {
   // const [isOpen, setIsOpen] = useState(false);
   // const toggle = () => setIsOpen(!isOpen);
   return (
-    <div className="home-container">
+    <div className="imagen">
+      {/* <img  className="imagen"   src="https://cdn.pixabay.com/photo/2018/12/10/02/14/manhattan-3866140_960_720.jpg"/> */}
+      <h1 className=" titulo"> Welcome to my Portfolio</h1>
 
-      <img  className="imagen"   src="https://cdn.pixabay.com/photo/2018/12/10/02/14/manhattan-3866140_960_720.jpg"/>
+      <button className="button">Go! To Page</button>
 
-      <div className=" titulo">
-        <h1> Welcome to my Portfolio</h1>
-      </div>
       {/* <div className="left-image">
         <img
           className="imagen"

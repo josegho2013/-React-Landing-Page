@@ -1,11 +1,28 @@
-
-
 .imagen {
   width: 100%;
-  opacity: 0.6;
+  background-image:  url("https://cdn.pixabay.com/photo/2020/05/07/04/01/digitization-5140071_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+ 
 }
-.titulo{
-  justify-content: center;
+
+.titulo {
+  text-align: center;
+  position: relative;
+  top: 40%;
+  font-size: 74px;
+  color: white;
+}
+.button{
+  text-align: center;
+    position: relative;
+    top: 39%;
+    font-size: 35px;
+    color: #f9fafb;
+    left: 42%;
+    border-radius: 75px;
+    background-color: #232628;
 }
 
 /* .left-image{
