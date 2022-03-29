@@ -7,7 +7,7 @@ import "../styles/skill.css";
 const Skill = () => {
   return (
     <div className="container-skill">
-       <Navbar />
+      
       <div className="left-skill">
         <Button color="warning">FRONT END</Button>
         <div className="img-logos01">
@@ -33,7 +33,7 @@ const Skill = () => {
 
         </div>
       </div>
-      <Footer />
+ 
     </div>
   );
 };

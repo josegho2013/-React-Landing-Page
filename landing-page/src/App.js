@@ -6,18 +6,22 @@ import Contact from "./components/Contact";
 import Works from "./components/Works";
 import Home from "./components/Home";
 import Landing from "./components/Landing";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div>
+       <Navbar />
       <Routes>
         <Route exact path="/" element={<Landing />} />
-        <Route exact path="/home" element={<Home />} />
-        <Route exact path="/about" element={<About />} />
-        <Route exact path="/skill" element={<Skill />} />
-        <Route exact path="/works" element={<Works />} />
-        <Route exact path="/contact" element={<Contact />} />
+        <Route  path="/home" element={<Home />} />
+        <Route  path="/about" element={<About />} />
+        <Route path="/skill" element={<Skill />} />
+        <Route  path="/works" element={<Works />} />
+        <Route  path="/contact" element={<Contact />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
