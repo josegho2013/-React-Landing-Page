@@ -10,9 +10,9 @@ const Navbar = () => {
       <VscFileCode size="4rem" color="white" />
       <h1> MANGO DEV</h1>
       <div className="links">
-        <Link to="/home">
+        {/* <Link to="/home">
           <button>Home</button>
-        </Link>
+        </Link> */}
         <Link to="/about">
           <button>About Me</button>
         </Link>
